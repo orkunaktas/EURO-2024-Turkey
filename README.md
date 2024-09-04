@@ -15,6 +15,6 @@ Pass Heat Map 🔥⚽: I visualized the intensity and distribution of Turkey's p
 
 Top 10 Players 🥇🥇📋: I ranked the Turkish national team players from best to worst according to their overall effectiveness (passing, shooting, dribbling). This analysis was used to compare the players' performances and identify the most effective players. 🌟🏅
 
-These visualizations are designed to better understand Turkey's performance in the Euro 2024 tournament and to assess in detail the on-field contributions of the players. The visualizations and analysis allow us to dig deeper into the team's strategic approaches and individual player performances. This comprehensive perspective helps us understand how effective Turkey was in the tournament and where improvements are needed!!!!. 🚀📊
+These visualizations are designed to better understand Turkey's performance in the Euro 2024 tournament and to assess in detail the on-field contributions of the players. The visualizations and analysis allow us to dig deeper into the team's strategic approaches and individual player performances. This comprehensive perspective helps us understand how effective Turkey was in the tournament and where improvements are needed!!!!!!. 🚀📊
 
 ![](trmil.jpg)
